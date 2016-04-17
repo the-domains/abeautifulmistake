@@ -1,0 +1,13 @@
+layout_spectrum: 0.9910395
+color:
+  saturation: 0.2114142
+  lightness: 0.7759857
+  brandStrength: 0.8046595
+  brandColors:
+    - '#C5C5C7'
+    - '#7F8187'
+    - '#26373B'
+    - '#000205'
+  rhythmicContrast: 0.8530466
+typography_spectrum: 0.6845878
+name: abeautifulmistake
