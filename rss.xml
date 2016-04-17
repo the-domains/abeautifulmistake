@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[a beautiful mistake]]></title>
+        <description><![CDATA[a beautiful mistake]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 22:22:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Nothing is original. Steal from anywhere that resonates with inspiration or fuels your imagination. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent." </p>]]></description>
+            <link>undefinednothing-is-original-steal-from-anywhere-that-resonates-wit/index.html</link>
+            <guid isPermaLink="false">2da64d6a-0fc4-43f0-a308-4d8b2ba10ecd</guid>
+            <pubDate>Sun, 17 Apr 2016 22:22:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
