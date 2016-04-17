@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[a beautiful mistake]]></title>
         <description><![CDATA[a beautiful mistake]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abeautifulmistake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:22:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 22:26:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abeautifulmistake/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ccc145-5e4d-4613-adb4-19ccbece792f.jpg">]]></description>
+            <link>https://thegrid.ai/abeautifulmistake/298b30dd-7091-42bc-a7fc-de2ae8bb3041/index.html</link>
+            <guid isPermaLink="false">298b30dd-7091-42bc-a7fc-de2ae8bb3041</guid>
+            <pubDate>Sun, 17 Apr 2016 22:26:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Nothing is original. Steal from anywhere that resonates with inspiration or fuels your imagination. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent." </p>]]></description>
-            <link>undefinednothing-is-original-steal-from-anywhere-that-resonates-wit/index.html</link>
+            <link>https://thegrid.ai/abeautifulmistake/nothing-is-original-steal-from-anywhere-that-resonates-wit/index.html</link>
             <guid isPermaLink="false">2da64d6a-0fc4-43f0-a308-4d8b2ba10ecd</guid>
             <pubDate>Sun, 17 Apr 2016 22:22:21 GMT</pubDate>
         </item>
